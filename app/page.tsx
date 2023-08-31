@@ -11,11 +11,12 @@ export default function Home() {
   return (
     <main className='bg-[#F9F9F9] px-6 sm:px-8 lg:px-16 '>
       <Container>
-        <div className='py-[4.25rem]'>
+        <div className='py-[4.25rem] relative flex max-lg:flex-col gap-8 lg:items-start '>
           <Image
             src={background}
-            alt='telephone' />
-          <article className='p-6 sm:p-10 backdrop-blur-[50px] bg-[#131313]/10 flex flex-col justify-center gap-4 rounded-tr-[2rem] rounded-bl-[2rem] sm:max-w-[25.5rem]'>
+            alt='telephone'
+            className='sm:absolute' />
+          <article className='p-6 sm:p-10 backdrop-blur-[50px] bg-[#131313]/10 flex flex-col justify-center gap-4 rounded-tr-[2rem] rounded-bl-[2rem] sm:max-w-[25.5rem] sm:ml-auto lg:ml-0 lg:self-end '>
             <Image
               src={logo}
               alt='Logo'

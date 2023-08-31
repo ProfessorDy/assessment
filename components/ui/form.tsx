@@ -9,10 +9,11 @@ const Form = () => {
                         <br />Explore Together to Ensure Your Rare Eat Fresh Experience Is Exceptional and Delightful.</p>
                 </div>
 
-                <div className="flex  max-lg:flex-col gap-5  ">
+                <div className="flex max-lg:flex-col  gap-5  ">
                     <label htmlFor="">
                         <input className="w-full px-5 py-[0.62rem] text-[.875rem] font-medium leading-normal rounded-[3.125rem] bg-white border border-[#EFF2F6]" type="text" placeholder="First Name" />
                     </label>
+
                     <label htmlFor="">
                         <input className="w-full px-5 py-[0.62rem] text-[.875rem] font-medium leading-normal rounded-[3.125rem] bg-white border border-[#EFF2F6]" type="text" placeholder="Last Name" />
                     </label>
@@ -23,7 +24,7 @@ const Form = () => {
                 <label htmlFor="">
                     <textarea className="w-full py-[1.88rem] px-5 rounded-[1.25rem] " name="" id="" placeholder="Describe your issues" rows={10} />
                 </label>
-                <input type="submit" value="Send" />
+                <input className="p-4 rounded-[1.98756rem] bg-[#F36F00] text-white text-[.875rem] font-bold leading-normal cursor-pointer" type="submit" value="Send" />
 
             </form>
 
