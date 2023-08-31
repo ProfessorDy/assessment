@@ -20,7 +20,7 @@ export const Socials = ({ main }: { main: boolean }) => {
                             <BiLogoLinkedin color="white" />
                         </div>
                     </div>
-                    : <div className="flex gap-[.62rem]">
+                    : <div className="flex gap-[.62rem] max-sm:mx-auto">
                         <div className='grid place-items-center bg-white w-8 aspect-square rounded-[10.7px]'>
                             <BiLogoFacebook color="black" />
                         </div>

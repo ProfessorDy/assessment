@@ -17,7 +17,7 @@ const Footer = () => {
                         alt="logo"
                         className="max-lg:mx-auto" />
 
-                    <ul className="mb-10 flex max-lg:flex-wrap justify-between gap-6">
+                    <ul className="mb-10 flex max-sm:flex-col max-lg:flex-wrap justify-between gap-8 max-sm:text-center">
                         <li className="flex flex-col gap-4">
                             <h3 className="text-[1.25rem] text-[#F36F00]  font-bold leading-normal tracking-[.0375rem] ">Company</h3>
 
