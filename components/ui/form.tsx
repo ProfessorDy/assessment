@@ -5,7 +5,7 @@ const Form = () => {
             <form className="flex flex-col   gap-4 sm:gap-6">
                 <div >
                     <h1 className="text-[2rem] font-bold tracking-[0.06rem] text-black leading-normal ">Get in touch</h1>
-                    <p className="text-[1rem] font-normal leading-[1.375rem] tracking-[.03rem] text-[#626262] ">Your Questions and Feedback Matter to Us - Reach Out, Let's Connect, and
+                    <p className="text-[1rem] font-normal leading-[1.375rem] tracking-[.03rem] text-[#626262]">Your Questions and Feedback Matter to Us - Reach Out, Let&apos;s Connect, and
                         <br />Explore Together to Ensure Your Rare Eat Fresh Experience Is Exceptional and Delightful.</p>
                 </div>
 
