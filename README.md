@@ -1,34 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Front-End Development Project: Website Contact Page
 
-## Getting Started
+Welcome to my submission for the Front-End Development task – creating a fully functional Contact Page based on the provided Figma design. This project demonstrates my skills in front-end development, responsive design, and bringing designs to life. Below, you'll find details about the project, the tech stack used, and instructions on how to access the live demo.
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+This project involves the development of a Contact Page for a website, utilizing HTML5, CSS3, and JavaScript. The primary goal was to faithfully implement the Figma design provided, ensuring responsiveness, interactive elements, and optimized performance.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Figma Design
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The project is based on the following Figma design: [View Figma Design](https://www.figma.com/file/PuBERz5oGHFIR21dKuYhij/Untitled?type=design&node-id=0%3A1&mode=design&t=DCFCeyuifd73zjWy-1)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- HTML5
+- CSS3
+- JavaScript
+- ReactJS
+- NextJS
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Faithful implementation of the Figma design, showcasing attention to detail.
+- Fully responsive design ensuring optimal user experience across various devices and screen sizes.
+- Clean and semantic HTML/CSS code for maintainability and readability.
+- Interactive elements like buttons and a responsive navigation menu implemented using JavaScript.
+- Responsive navigation menu that transforms into a hamburger menu on smaller screens.
+- Optional subtle animations for enhanced user engagement.
+- Cross-browser compatibility, tested on Chrome, Firefox, and Safari.
+- Performance optimization for faster page loading times.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## How to Access
 
-## Deploy on Vercel
+To view the live demo of the Contact Page, please follow this link: [Live Demo](https://your-live-demo-link.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Repository
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+You can access the project repository on GitHub: [Project Repository](https://github.com/ProfessorDy/assessment)
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/ProfessorDy/assessment.git`
+2. Navigate to the project directory: `cd assessment`
+3. Open the `index.html` file in your preferred web browser.
+
+## Evaluation Criteria
+
+The project will be evaluated based on the following criteria:
+
+- Fidelity to the provided Figma design.
+- Responsiveness across different devices.
+- Code quality and organization of HTML, CSS, and JavaScript.
+- Implementation of interactive elements and navigation.
+- Performance, including loading speed and overall optimization.
+- Creativity in enhancing the design.
+
+## Contact
+
+If you have any questions or need clarification about the project, feel free to reach out to me:
+
+- Email: kingdeeyfx@email.com
+- GitHub: [Visit my Github Profile](https://github.com/ProfessorDy)
+
+Thank you for considering my submission. I look forward to the opportunity to discuss my work in further detail.
+
+Best regards,
+Destiny Adebayo
