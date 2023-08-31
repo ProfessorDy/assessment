@@ -2,7 +2,7 @@ import { Socials } from '@/components/Socials'
 import Container from '@/components/ui/container'
 import background from '@/public/image/frame.png'
 import logo from "@/public/Logo Crop 2.png"
-
+import Form from '@/components/ui/form'
 
 
 import Image from 'next/image'
@@ -30,8 +30,8 @@ export default function Home() {
 
             </div>
             <Socials main={true} />
-
           </article>
+          <Form />
         </div>
       </Container>
     </main>
