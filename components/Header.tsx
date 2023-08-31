@@ -34,7 +34,7 @@ const Header = () => {
 
     return (
 
-        <header className="px-6 sm:px-8 lg:px-16 py-2 shadow-2xl bg-[#F9F9F9]">
+        <header className=" py-2 shadow-2xl bg-[#F9F9F9]">
             <Container>
 
                 <div className="flex justify-between items-center">
