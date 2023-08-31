@@ -12,9 +12,8 @@ The project is based on the following Figma design: [View Figma Design](https://
 
 ## Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
+- TailwindCSS
+- Typescript
 - ReactJS
 - NextJS
 
