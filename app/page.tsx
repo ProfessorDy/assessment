@@ -6,6 +6,7 @@ import Form from '@/components/ui/form'
 
 
 import Image from 'next/image'
+import Summary from '@/components/Summary'
 
 export default function Home() {
   return (
@@ -34,6 +35,7 @@ export default function Home() {
           </article>
           <Form />
         </div>
+        <Summary />
       </Container>
     </main>
   )
