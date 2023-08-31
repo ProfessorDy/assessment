@@ -31,7 +31,7 @@ The project is based on the following Figma design: [View Figma Design](https://
 
 ## How to Access
 
-To view the live demo of the Contact Page, please follow this link: [Live Demo](https://your-live-demo-link.com)
+To view the live demo of the Contact Page, please follow this link: [Live Demo](https://assessment-tobams.vercel.app/)
 
 ## Repository
 
