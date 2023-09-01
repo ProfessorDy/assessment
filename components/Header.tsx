@@ -43,7 +43,9 @@ const Header = () => {
                             <SheetTrigger>
                                 <AiOutlineMenu className="w-6 lg:hidden" />
                             </SheetTrigger>
-                            <SheetContent side="left" className="w-[300px] sm:w-[400px]">
+                            <SheetContent side="left" className="w-[300px] sm:w-[400px] pt-20 space-y-6">
+
+                                <Searchbar mobile={true} />
                                 <nav className="flex flex-col gap-4">
                                     {routes.map((route,) => (
                                         <Link
@@ -70,7 +72,7 @@ const Header = () => {
                         )
                         )}
                     </nav>
-                    <Searchbar />
+                    <Searchbar mobile={false} />
                     <User />
                 </div>
             </Container>

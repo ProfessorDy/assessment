@@ -1,9 +1,9 @@
 
 
-const Searchbar = () => {
+const Searchbar = ({ mobile }: { mobile: boolean }) => {
     return (
 
-        <form className="hidden lg:block">
+        <form className={mobile ? " mx-auto " : "hidden lg:block"}>
             <label htmlFor="default-search" className="text-sm font-medium  text-[#131313] sr-only">Search</label>
             <div className="relative">
                 <div className="absolute inset-y-0 left-0 flex items-center pl-5 pointer-events-none">
