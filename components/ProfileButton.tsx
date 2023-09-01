@@ -1,4 +1,4 @@
-
+import { MdKeyboardArrowDown } from "react-icons/md"
 
 import {
     DropdownMenu,
@@ -13,11 +13,12 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 const ProfileButton = () => {
     return (
         <DropdownMenu>
-            <DropdownMenuTrigger>
+            <DropdownMenuTrigger className="flex items-center">
                 <Avatar>
                     <AvatarImage src={'/Frame 1000002103.png'} />
                     <AvatarFallback>user</AvatarFallback>
                 </Avatar>
+                <MdKeyboardArrowDown />
             </DropdownMenuTrigger>
             <DropdownMenuContent>
                 <DropdownMenuLabel>My Account</DropdownMenuLabel>

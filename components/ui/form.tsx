@@ -9,7 +9,7 @@ const Form = () => {
                         <br />Explore Together to Ensure Your Rare Eat Fresh Experience Is Exceptional and Delightful.</p>
                 </div>
 
-                <div className="grid lg:grid-cols-2  gap-5  ">
+                <div className="grid lg:grid-cols-2 gap-5  ">
                     <label htmlFor="">
                         <input className="w-full px-5 py-[0.62rem] text-[.875rem] font-medium leading-normal rounded-[3.125rem] bg-white border border-[#EFF2F6]" type="text" placeholder="First Name" />
                     </label>
